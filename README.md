@@ -6,7 +6,7 @@ Edusity is a modern and responsive educational website built using React.js. The
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed project link here
+🔗 https://edusity-chi-gules.vercel.app/
 
 ---
 
